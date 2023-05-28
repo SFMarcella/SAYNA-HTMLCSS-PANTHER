@@ -1,4 +1,3 @@
-
 let right = document.getElementById('chevron_right');
 let left = document.getElementById('chevron_left');
 let scroll = document.querySelector('.scroll');
